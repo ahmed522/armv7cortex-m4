@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "files.associations": {
+        "intctrl_conf.h": "c"
+    }
+}
